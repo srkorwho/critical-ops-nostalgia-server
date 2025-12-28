@@ -11,6 +11,8 @@ Basic custom server implementation for Cops. This project uses SQLite for data m
 - **Network Stability:** Kernel-level UDP socket reset handling via IOControl to prevent connection resets on Windows.
 - **Sync Optimization:** Multi-event packing for efficient initial world state synchronization.
 - **Database:** Full skin registration and user data management via SQLite.
+- 
+<img width="1248" height="649" alt="image" src="https://github.com/user-attachments/assets/421f53a8-8ec9-40da-96ee-3832e4f9ec45" />
 
 ## Features
 
