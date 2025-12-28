@@ -32,6 +32,6 @@ Recommended to use a decent server if you plan to host for more than 5 players.
 3. Compile and run.
 4. The database (referans.db) will be created automatically.
 
-## Crate Rates
+## Skinpack Rates
 
 Tier 1-2: 5% | Tier 3: 20% | Tier 4: 25% | Tier 5: 20% | Tier 6: 15% | Tier 7: 10%
